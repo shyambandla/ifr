@@ -1,0 +1,12 @@
+--upgrade pip
+pyaudio
+gluoncv
+opencv-python
+pyttsx
+python-espeak
+speechrecognition
+matplotlib
+pycairo
+chatterbot
+e
+virtualenv
