@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_items">
+        <item>Make a Friend</item>
+        <item>Status</item>
+        <item>Friends</item>
+    </string-array>
+</resources>

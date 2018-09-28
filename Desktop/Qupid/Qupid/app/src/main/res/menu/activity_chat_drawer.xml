@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/chat"
+            android:icon="@mipmap/ic_message_text_black_18dp"
+            android:title="Chat" />
+        <item
+            android:id="@+id/makefriend"
+            android:icon="@mipmap/ic_people_black_24dp"
+            android:title="Make A Friend" />
+        <item
+            android:id="@+id/status"
+            android:icon="@mipmap/ic_people_black_24dp"
+            android:title="Status" />
+        <item
+            android:id="@+id/settings"
+            android:icon="@mipmap/ic_people_black_24dp"
+            android:title="Settings" />
+
+    </group>
+
+
+
+</menu>
